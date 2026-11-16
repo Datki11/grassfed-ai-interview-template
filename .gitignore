@@ -1,0 +1,8 @@
+node_modules/
+dist/
+out/
+bin/
+obj/
+__pycache__/
+*.class
+.DS_Store
